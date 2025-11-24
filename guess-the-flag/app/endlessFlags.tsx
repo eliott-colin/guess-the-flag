@@ -11,8 +11,9 @@ interface Flag {
   options: string[];
 }
 
-export default function GameScreen() {
-  const flags: Flag[] = flagsData.countries.map((c) => ({
+export default function EndlessFlags() {
+  const flagsRandomized = flagsData.countries.sort(() => 0.5 - Math.random());
+  const flags: Flag[] = flagsRandomized.map((c) => ({
     country: c.name,
     code: c.code,
     image: flagImages[c.code as keyof typeof flagImages] as ImageSourcePropType,
