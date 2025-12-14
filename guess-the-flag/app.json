@@ -14,9 +14,9 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+        "foregroundImage": "./assets/images/flag-image.png",
+        "backgroundImage": "./assets/images/flag-image.png",
+        "monochromeImage": "./assets/images/flag-image.png"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,

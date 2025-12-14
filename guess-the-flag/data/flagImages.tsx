@@ -1,5 +1,5 @@
 // export const flagArrays = [
-//   "ad","ae","af","ag","ai","al","am","ao","ar","as","aq","at","au","aw","ax","az",
+//   "ad","ae","af","ag","ai","al","am","ao","ar","as","at","au","aw","ax","az",
 //   "ba","bb","bd","be","bf","bg","bh","bi","bj","bl","bm","bn","bo","bq","br","bs","bt","bv","bw","by","bz",
 //   "ca","cc","cd","cf","cg","ch","ci","ck","cl","cm","cn","co","cr","cu","cv","cw","cx","cy","cz",
 //   "de","dj","dk","dm","do","dz",
@@ -18,7 +18,7 @@
 //   "qa","re","ro","rs","ru","rw",
 //   "sa","sb","sc","sd","se","sg","sh","si","sj","sk","sl","sm","sn","so","sr","ss","st","sv","sx","sy","sz",
 //   "tc","td","tf","tg","th","tj","tk","tl","tm","tn","to","tr","tt","tv","tw","tz",
-//   "ua","ug","um","us","uy","uz",
+//   "ua","ug","us","uy","uz",
 //   "va","vc","ve","vg","vi","vn","vu",
 //   "wf","ws",
 //   "ye","yt",
